@@ -99,29 +99,4 @@ PUT /contacts/:id
 
 ```http
 DELETE /contacts/:id
-```
-
-## How to Upload to GitHub
-
-1. Initialize a new Git repository:
-   ```sh
-   git init
-   ```
-2. Add all files to the repository:
-   ```sh
-   git add .
-   ```
-3. Commit the files:
-   ```sh
-   git commit -m "Initial commit"
-   ```
-4. Create a new repository on GitHub.
-5. Add the remote origin:
-   ```sh
-   git remote add origin https://github.com/yourusername/contact-management-api.git
-   ```
-6. Push the code to GitHub:
-   ```sh
-   git push -u origin main
-   ```.
-
+```.
